@@ -36,7 +36,7 @@ pipeline{
 			echo "NFT"
 		}
 	}
-
+	}
 	post {
 		always {
 			echo 'I always run'
